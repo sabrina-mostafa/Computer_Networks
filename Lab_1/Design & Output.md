@@ -1,4 +1,4 @@
-## Question:
+## Question :
 Create a network containing 5 nodes. One of the nodes generates message and forwards it to the next node.
 <br>The message is being forwarded by the nodes for indefinite time. 
 
