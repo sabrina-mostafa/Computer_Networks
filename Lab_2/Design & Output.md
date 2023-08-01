@@ -15,3 +15,8 @@ Also use record-eventlog = true in the ini file to show the sequence diagram. In
 <br>
 
 ![lab2-6](https://github.com/sabrina-mostafa/Computer_Networks/assets/78508655/1f4d0491-f060-4722-94f7-9369e09a7b93)
+
+<br>
+
+## Sequence Diagram :
+![lab2-8](https://github.com/sabrina-mostafa/Computer_Networks/assets/78508655/83225846-b938-43a1-bc9c-1813e1ea7cf6)
